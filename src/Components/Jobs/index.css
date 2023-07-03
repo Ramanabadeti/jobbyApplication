@@ -1,0 +1,19 @@
+.jobs_container {
+  display: flex;
+}
+
+.profile_filters {
+  min-width: 25%;
+  padding: 20px;
+}
+
+.search_input_field {
+  margin: 20px 65px;
+}
+
+.loader_clr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #111;
+}

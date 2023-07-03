@@ -1,0 +1,84 @@
+.jobCard {
+  margin: 20px;
+  padding: 15px;
+  border-radius: 6px;
+  background-color: rgb(83, 82, 82);
+  color: #fff;
+}
+
+.company_logo {
+  height: 80px;
+  width: 80px;
+  margin-top: 30px;
+}
+
+.headingDetails {
+  margin: 0px 0px 25px 25px;
+  padding: 0px;
+}
+
+.first_flex {
+  display: flex;
+}
+.second_flex {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 20px;
+}
+
+.location_space {
+  margin-right: 30px;
+}
+
+hr {
+  border: 1px solid #fff;
+  width: 100%;
+}
+
+/* inner each skill page */
+
+.job_profile_main_container {
+  background-color: #000;
+}
+
+.discrp_and_Link {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skillContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+}
+
+.each_skill {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  margin: 20px;
+}
+
+.skill_photo {
+  margin: 10px;
+  height: 50px;
+  width: 50px;
+}
+
+.life_at_company_container {
+  display: flex;
+}
+
+.life_at_company_photo {
+  height: 100%;
+  width: 40%;
+  border-radius: 10px;
+}
+
+.similarJobCard {
+  display: flex;
+}
+
+.similarCard {
+  max-width: 300px;
+}

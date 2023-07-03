@@ -1,0 +1,16 @@
+.home {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+}
+
+.content-home {
+  margin: 100px;
+}
+
+.findJobsBtn {
+  background-color: blueviolet;
+  color: #fff;
+  padding: 10px;
+}
